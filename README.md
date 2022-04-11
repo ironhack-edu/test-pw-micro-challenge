@@ -14,16 +14,16 @@
   Your code should look something like this:
   
   <hr>
-  ```javascript
-  console.log('Hello World!');
+```javascript
+console.log('Hello World!');
 
-  // Ada Lovelace
+// Ada Lovelace
 
-  /*
-  The only way to learn a new programming language 
-  is by writing programs in it. - Dennis Ritchie
-  */
-  ```
+/*
+The only way to learn a new programming language 
+is by writing programs in it. - Dennis Ritchie
+*/
+```
   <hr>
 
 The output in the console should look like this:
